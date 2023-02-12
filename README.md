@@ -1,3 +1,3 @@
 # Slider
 little slider 
- Is a baisic slider with Java Scipt and i will youse Type Scipt
+ It's a baisic slider with JavaScipt and I will youse TypeScipt.
